@@ -1,4 +1,4 @@
-DIYPBX CHnages
+DIYPBX Changes
 --------------------------------------
 The configrtaion remains the same as the Fusionpbx Git except for some changes to match our tutorials
 
